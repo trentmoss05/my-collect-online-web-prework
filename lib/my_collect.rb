@@ -1,3 +1,3 @@
-def my_collect(names)
+def my_collect(collection)
 
 end
